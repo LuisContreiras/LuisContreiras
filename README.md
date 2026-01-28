@@ -65,8 +65,5 @@
 </p>
 
 ---
-![snake gif](https://github.com/LuisContreiras/.github/workflows/snake.yml/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ Se você curte meu trabalho, considere dar uma estrela em algum repositório  
