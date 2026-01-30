@@ -8,7 +8,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/LuisContreiras">
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 O que eu faço
+##  O que eu faço
 
 - 🏗️ Desenvolvimento de projetos pessoais e estudos em aplicações web  
 - ⚡ Aprendizado de boas práticas básicas de performance  
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Stack de Tecnologias
+##  Stack de Tecnologias
 
 ### Frontend
 
@@ -57,10 +57,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisContreiras&show_icons=true&theme=tokyonight&count_private=true&token=SEU_TOKEN_AQUI" />
+ <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisContreiras&show_icons=true&theme=tokyonight&count_private=true&token=SEU_TOKEN_AQUI" /> -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisContreiras&layout=compact&theme=tokyonight" />
 </p>
 
