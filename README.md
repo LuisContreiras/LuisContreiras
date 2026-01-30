@@ -60,7 +60,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisContreiras&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisContreiras&show_icons=true&theme=tokyonight&count_private=true&token=SEU_TOKEN_AQUI" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisContreiras&layout=compact&theme=tokyonight" />
 </p>
 
